@@ -1,0 +1,9 @@
+pyenv
+build
+*~
+*.pyc
+*.sqlite
+data/*
+config.py
+*~
+sample_work.db
