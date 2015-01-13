@@ -1,0 +1,16 @@
+SQLAlchemy==0.7.7
+amqplib==1.0.2
+anyjson==0.3.1
+argparse==1.2.1
+kombu==2.1.8
+lxml==2.3.4
+python-dateutil==1.5
+ckan
+ckanclient
+pika==0.9.13
+supervisor
+foxpath>=0.99.14
+psycopg2
+unicodecsv
+openpyxl
+blinker
